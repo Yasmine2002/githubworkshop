@@ -37,7 +37,10 @@
  :+1:this pr looks great :blush:
  
  <!--this content will not appear in render markdown-->
- >***failure is the stepping stone to success***
+ >***failure is the stepping stone to success:heavy_heart_exclamation:***
+  - [x] convert text into tissues #39
+  - [ ] keep issue state and checkboxes in sync #0
+  - [ ] add delight tothe experience whwn all tasks are completed #:tada:
  
 
 
